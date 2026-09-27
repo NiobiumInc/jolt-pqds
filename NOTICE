@@ -2,9 +2,9 @@ THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 ============================================================
 
 Project: jolt-pqds
-Generated: 2026-04-25
+Generated: 2026-09-27
 Tool: SCANOSS (snippet detection with License dataset)
-Components: 5
+Components: 6
 
 This file lists all third-party software components detected
 in this repository, along with their licenses and copyright
@@ -14,8 +14,8 @@ notices as required by those licenses.
 
 LICENSE SUMMARY
 
-  Apache-2.0: 5 component(s)
-  MIT: 3 component(s)
+  Apache-2.0: 6 component(s)
+  MIT: 4 component(s)
 
 ------------------------------------------------------------
 
@@ -30,10 +30,18 @@ COMPONENT ATTRIBUTIONS
     Copyright copyright owner or entity authorized by
   License: Apache-2.0
 
+  forge-std
+  Version: v1.16.2
+  Source: https://github.com/foundry-rs/forge-std
+  PURL: pkg:github/foundry-rs/forge-std
+  License: Apache-2.0
+
   github.com/arithmic/jolt
   Version: v0.0.0-20250612165522-e8c245607a4a
   Source: https://proxy.golang.org/github.com/arithmic/jolt/@v/v0.0.0-20250612165522-e8c245607a4a.zip
   PURL: pkg:golang/github.com/arithmic/jolt
+  Copyright:
+    Copyright (c) Microsoft Corporation
   License: Apache-2.0, MIT
 
   jolt
@@ -43,27 +51,27 @@ COMPONENT ATTRIBUTIONS
   Copyright:
     Copyright 2020 Takahiro
     Copyright 2025 Galois Inc.
+    Copyright  c) Microsoft Corporation
   License: Apache-2.0, MIT
 
   lasso
-  Version: 2343e36
+  Version: 1a6227a
   Source: https://github.com/a16z/lasso
   PURL: pkg:github/a16z/lasso
   Copyright:
     Copyright 2020 Takahiro
     Copyright 2025 Galois Inc.
     Copyright  c) Microsoft Corporation
-    Copyright (c) Microsoft Corporation
     Copyright (c) Microsoft Corporation.
   License: Apache-2.0, MIT
 
-  pb-jelly
-  Version: v0.0.12
-  Source: https://github.com/dropbox/pb-jelly
-  PURL: pkg:github/dropbox/pb-jelly
+  rp2040-emu-tui
+  Version: 0.1.2
+  Source: https://static.crates.io/crates/rp2040-emu-tui/rp2040-emu-tui-0.1.2.crate
+  PURL: pkg:cargo/rp2040-emu-tui
   Copyright:
-    Copyright copyright owner or entity authorized by
-  License: Apache-2.0
+    Copyright 2026 Martin Davidson
+  License: Apache-2.0, MIT
 
 ------------------------------------------------------------
 
