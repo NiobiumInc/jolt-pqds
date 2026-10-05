@@ -2,7 +2,7 @@ THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 ============================================================
 
 Project: jolt-pqds
-Generated: 2026-09-27
+Generated: 2026-10-05
 Tool: SCANOSS (snippet detection with License dataset)
 Components: 6
 
@@ -21,6 +21,14 @@ LICENSE SUMMARY
 
 COMPONENT ATTRIBUTIONS
 
+  aesop
+  Version: v4.18.0
+  Source: https://github.com/leanprover-community/aesop
+  PURL: pkg:github/leanprover-community/aesop
+  Copyright:
+    Copyright copyright owner or entity authorized by
+  License: Apache-2.0
+
   cedar-spec
   Version: v4.4.0
   Source: https://github.com/cedar-policy/cedar-spec
@@ -28,12 +36,6 @@ COMPONENT ATTRIBUTIONS
   Copyright:
     Copyright Amazon.com; Inc. or its affiliates. All Rights Reserved.
     Copyright copyright owner or entity authorized by
-  License: Apache-2.0
-
-  forge-std
-  Version: v1.16.2
-  Source: https://github.com/foundry-rs/forge-std
-  PURL: pkg:github/foundry-rs/forge-std
   License: Apache-2.0
 
   github.com/arithmic/jolt
@@ -50,7 +52,7 @@ COMPONENT ATTRIBUTIONS
   PURL: pkg:github/a16z/jolt
   Copyright:
     Copyright 2020 Takahiro
-    Copyright 2025 Galois Inc.
+    Copyright 2025 Galois Inc
     Copyright  c) Microsoft Corporation
   License: Apache-2.0, MIT
 
@@ -60,7 +62,7 @@ COMPONENT ATTRIBUTIONS
   PURL: pkg:github/a16z/lasso
   Copyright:
     Copyright 2020 Takahiro
-    Copyright 2025 Galois Inc.
+    Copyright 2025 Galois Inc
     Copyright  c) Microsoft Corporation
     Copyright (c) Microsoft Corporation.
   License: Apache-2.0, MIT
